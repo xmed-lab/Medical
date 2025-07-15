@@ -76,3 +76,5 @@ We will provide updates once the arXiv/TNNLS publication process is complete.
 Many thanks to the data preprocessing pipeline in the following published papers.
 
 [DGNet-MICCAI'21](https://github.com/vios-s/DGNet/tree/main)；[AADG-TMI'22](https://github.com/CRazorback/AADG/tree/main); [TriD-MICCAI'23](https://github.com/Chen-Ziyang/TriD/tree/main/TriD-master/PROSTATE)
+
+You can contact czhaobo@connect.ust.hk for more guidance and collaboration!
