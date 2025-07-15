@@ -1,0 +1,1 @@
+You could download pretrained parameters from their website or timm.
